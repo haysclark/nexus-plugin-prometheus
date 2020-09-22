@@ -1,6 +1,6 @@
 {
   "name": "nexus-plugin-prometheus",
-  "version": "v0.0.0",
+  "version": "0.1.0",
   "description": "A nexus-framework plugin for reporting basic GraphQL metrics through Prometheus (via prom-client)",
   "keywords": [
     "graphql",
